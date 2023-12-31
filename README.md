@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coolCoderD
 - 👀 I’m interested in making new projects and collaboration 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me Email Id:-dikshasharmahm@gmail.com
 
 <!---
