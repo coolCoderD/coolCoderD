@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **DSA**
 
+- ⚡ Fun fact **I am funny**
+
 - 📫 How to reach me **dikshasharmahm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
