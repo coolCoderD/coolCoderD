@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="gitartwork.svg" alt="gitartwork">
+</div>
+
 <h1 align="center">Hello👋, I'm Diksha Sharma</h1>
 <h3 align="center">I am a software developer from India. I'm B.Tech CSE 3rd year student at NSUT, New Delhi. I like to code and develop things :)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
@@ -23,7 +27,7 @@
 # My Contributions vs 🐍
 <div>
   <div align = "center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/avneets2103/avneets2103/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/coolCoderD/coolCoderD/output/github-contribution-grid-snake-dark.svg" />
   </div>
   <br/>
 </div>
