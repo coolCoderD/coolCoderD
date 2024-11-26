@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello👋, I'm Diksha Sharma</h1>
-<h3 align="center">I am a software developer from India. I'm B.Tech CSE 3rd year student at NSUT, New Delhi. I like to code and develop things :)</h3>
+<h3 align="center">A passionate full-stack developer and 3D enthusiast, I blend creativity with technical expertise to craft innovative digital experiences. Proficient in the MERN stack, Java, and DSA, I love building dynamic web apps and exploring the world of 3D design. When I’m not coding, you’ll find me hosting poetry events or diving into my favorite anime. Let’s create something amazing together!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 # 💫 About Me:
@@ -15,7 +15,8 @@
 
 # 🌐 Get In Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diksha-sharma-1781b8253/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4301.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://dikshaportfolio98.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4301.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://dikshadev.vercel.app/)
+
 
 
 
